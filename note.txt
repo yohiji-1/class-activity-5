@@ -1,1 +1,2 @@
 This repo demonstrates branch locking with pull requests and reviews.
+(3) Collaborator added texts in note.txt in sub-main-1 branch directly.
