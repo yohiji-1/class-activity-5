@@ -1,3 +1,4 @@
 This repo demonstrates branch locking with pull requests and reviews.
 Collaborator added texts in note.txt in main branch directly.
 Local edit from my laptop on main.
+(2) Collaborator added texts in note.txt in main branch directly.
